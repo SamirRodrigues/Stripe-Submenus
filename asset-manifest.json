@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Stripe-Submenus/static/css/main.2346468d.chunk.css",
-    "main.js": "/Stripe-Submenus/static/js/main.405ebfd4.chunk.js",
-    "main.js.map": "/Stripe-Submenus/static/js/main.405ebfd4.chunk.js.map",
+    "main.js": "/Stripe-Submenus/static/js/main.b1cc07f4.chunk.js",
+    "main.js.map": "/Stripe-Submenus/static/js/main.b1cc07f4.chunk.js.map",
     "runtime-main.js": "/Stripe-Submenus/static/js/runtime-main.50619041.js",
     "runtime-main.js.map": "/Stripe-Submenus/static/js/runtime-main.50619041.js.map",
     "static/js/2.c11b1047.chunk.js": "/Stripe-Submenus/static/js/2.c11b1047.chunk.js",
     "static/js/2.c11b1047.chunk.js.map": "/Stripe-Submenus/static/js/2.c11b1047.chunk.js.map",
     "index.html": "/Stripe-Submenus/index.html",
-    "precache-manifest.a7025786d331f66f44d14fc6e85dfa9c.js": "/Stripe-Submenus/precache-manifest.a7025786d331f66f44d14fc6e85dfa9c.js",
+    "precache-manifest.e72ba2ac35665bbece2f38e0dc4e9260.js": "/Stripe-Submenus/precache-manifest.e72ba2ac35665bbece2f38e0dc4e9260.js",
     "service-worker.js": "/Stripe-Submenus/service-worker.js",
     "static/css/main.2346468d.chunk.css.map": "/Stripe-Submenus/static/css/main.2346468d.chunk.css.map",
     "static/js/2.c11b1047.chunk.js.LICENSE.txt": "/Stripe-Submenus/static/js/2.c11b1047.chunk.js.LICENSE.txt",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.50619041.js",
     "static/js/2.c11b1047.chunk.js",
     "static/css/main.2346468d.chunk.css",
-    "static/js/main.405ebfd4.chunk.js"
+    "static/js/main.b1cc07f4.chunk.js"
   ]
 }

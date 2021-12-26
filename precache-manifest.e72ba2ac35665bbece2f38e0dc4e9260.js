@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9860683e1efb38a0c5ab45aecfc5f690",
+    "revision": "a54eb0c144a08e39fcd532eecb85ac31",
     "url": "/Stripe-Submenus/index.html"
   },
   {
-    "revision": "a0cfe46f98ee5d35033a",
+    "revision": "53069cd1f1d1090c6c5c",
     "url": "/Stripe-Submenus/static/css/main.2346468d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Stripe-Submenus/static/js/2.c11b1047.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a0cfe46f98ee5d35033a",
-    "url": "/Stripe-Submenus/static/js/main.405ebfd4.chunk.js"
+    "revision": "53069cd1f1d1090c6c5c",
+    "url": "/Stripe-Submenus/static/js/main.b1cc07f4.chunk.js"
   },
   {
     "revision": "d0b4d5cba56e415be605",
