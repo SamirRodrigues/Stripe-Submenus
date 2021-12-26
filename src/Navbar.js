@@ -21,7 +21,7 @@ const Navbar = () => {
     }
   }
   return (
-    <nav className="nav" onMouseOver={{ handleSubmenu }}>
+    <nav className="nav" onMouseOver={handleSubmenu}>
       <div className="nav-center">
         <div className="nav-header">
           <img src={logo} alt="stripe" className="nav-logo" />
@@ -46,7 +46,9 @@ const Navbar = () => {
             </button>
           </li>
         </ul>
-        <button className="btn signin-btn"> Sign In</button>
+        <a className="btn signin-btn" href="/">
+          Sign In
+        </a>
       </div>
     </nav>
   )

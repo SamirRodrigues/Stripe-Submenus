@@ -19,6 +19,7 @@ const Hero = () => {
             className="btn"
             href="https://samirrodrigues.github.io"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Start Now
           </a>
